@@ -1,0 +1,21 @@
+﻿<Window x:Class="Wpf.zoom_window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf"
+        mc:Ignorable="d"
+        Title="zoom_window" Height="640" Width="986">
+    <Grid Margin="0,84,0,0.5">
+
+        <ScrollViewer Name="ScrollViewer" CanContentScroll="True" Margin="0,-24,0,0" HorizontalScrollBarVisibility="Auto">
+            <Image Name="zoom_image" HorizontalAlignment="Left" VerticalAlignment="Top" Width="Auto" Height="Auto"/>
+        </ScrollViewer>
+
+        <Button x:Name="zoom_out" Style="{StaticResource Button}" Content="Zoom Out" HorizontalAlignment="Left" Height="48" Margin="244,-77,0,0" VerticalAlignment="Top" Width="118" Click="zoom_out_Click"/>
+
+        <Button x:Name="zoom_in" Style="{StaticResource Button}" Content="Zoom In" HorizontalAlignment="Left" Height="48" Margin="648,-77,0,0" VerticalAlignment="Top" Width="118" Click="zoom_in_Click"/>
+        <Slider x:Name="zoom_slider" HorizontalAlignment="Left" Height="33" Margin="393,-62,0,0" VerticalAlignment="Top" Width="250" Maximum="15" RenderTransformOrigin="0.5,0.5" IsSnapToTickEnabled="True" TickFrequency="1" ValueChanged="zoom_slider_ValueChanged">
+        </Slider>
+    </Grid>
+</Window>

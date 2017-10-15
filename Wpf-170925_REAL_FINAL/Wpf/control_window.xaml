@@ -1,0 +1,52 @@
+﻿<Window x:Class="Wpf.control_window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf"
+        mc:Ignorable="d"
+        Title="Camera Control" Height="188.329" Width="986" Background="#FFF6F9F2">
+    <Grid Margin="0,24,0,-102" Height="285" VerticalAlignment="Top">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="113*"/>
+            <ColumnDefinition Width="376*"/>
+        </Grid.ColumnDefinitions>
+        <Viewbox Margin="39.142,-49,31,69" Stretch="Fill" Grid.Column="1">
+            <Grid x:Name="FControl_Grid" Height="265" Width="681">
+                <TextBlock HorizontalAlignment="Left" Margin="0,53,0,0" TextWrapping="Wrap" Text="Brightness" VerticalAlignment="Top" Height="16" Width="56"/>
+                <TextBlock HorizontalAlignment="Left" Margin="0,93,0,0" TextWrapping="Wrap" Text="Sharpness" VerticalAlignment="Top" Height="16" Width="56"/>
+                <TextBlock HorizontalAlignment="Left" Margin="0,133,0,0" TextWrapping="Wrap" Text="Contrast" VerticalAlignment="Top" Height="16" Width="56"/>
+                <TextBlock HorizontalAlignment="Left" Margin="317,53,0,0" TextWrapping="Wrap" Text="Saturation" VerticalAlignment="Top" Height="16" Width="103"/>
+                <TextBlock HorizontalAlignment="Left" Margin="317,93,0,0" TextWrapping="Wrap" Text="ISO" VerticalAlignment="Top" Height="16" Width="103"/>
+                <TextBlock HorizontalAlignment="Left" Margin="317,127,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="31" Width="129"><Run Text="Exposure"/><LineBreak/><Run Text="Compensation"/></TextBlock>
+                <TextBlock x:Name="BrightnessTextBox" HorizontalAlignment="Left" Height="23" Margin="241,52,0,0" TextWrapping="Wrap" Text="{Binding Value, ElementName=BrightnessSliderBar}" VerticalAlignment="Top" Width="35" />
+                <TextBlock x:Name="SharpnessTextBox" HorizontalAlignment="Left" Height="23" Margin="241,92,0,0" TextWrapping="Wrap" Text="{Binding Value, ElementName=SharpnessSliderBar}" VerticalAlignment="Top" Width="35"/>
+                <TextBlock x:Name="ContrastTextBox" HorizontalAlignment="Left" Height="23" Margin="241,132,0,0" TextWrapping="Wrap" Text="{Binding Value, ElementName=ContrastSliderBar}" VerticalAlignment="Top" Width="35"/>
+                <TextBlock x:Name="SaturationTextBox" HorizontalAlignment="Left" Height="23" Margin="601,52,0,0" TextWrapping="Wrap" Text="{Binding Value, ElementName=SaturationSliderBar}" VerticalAlignment="Top" Width="35"/>
+                <TextBlock x:Name="ISOTextBox" HorizontalAlignment="Left" Height="23" Margin="601,92,0,0" TextWrapping="Wrap" Text="{Binding Value, ElementName=ISOSliderBar}" VerticalAlignment="Top" Width="35"/>
+                <TextBlock x:Name="ExposureCompensationTextBox" HorizontalAlignment="Left" Height="23" Margin="601,132,0,0" TextWrapping="Wrap" Text="{Binding Value, ElementName=ExposureCompensationSliderBar}" VerticalAlignment="Top" Width="35"/>
+                <Slider x:Name ="BrightnessSliderBar" HorizontalAlignment="Left" Margin="94,54,0,0" VerticalAlignment="Top" Width="135" Value="50" IsSnapToTickEnabled="True" TickFrequency="1" Maximum="100" Minimum="0" />
+                <Slider x:Name ="SharpnessSliderBar" HorizontalAlignment="Left" Margin="94,94,0,0" VerticalAlignment="Top" Width="135" Value="0" IsSnapToTickEnabled="True" TickFrequency="1" Maximum="100" Minimum="-100" />
+                <Slider x:Name ="ContrastSliderBar" HorizontalAlignment="Left" Margin="94,134,0,0" VerticalAlignment="Top" Width="135" Value="0" IsSnapToTickEnabled="True" TickFrequency="1" Maximum="100" Minimum="-100"/>
+                <Slider x:Name ="SaturationSliderBar" HorizontalAlignment="Left" Margin="446,54,0,0" VerticalAlignment="Top" Width="135" Value="0" IsSnapToTickEnabled="True" TickFrequency="1" Maximum="100" Minimum="-100" />
+                <Slider x:Name ="ISOSliderBar" HorizontalAlignment="Left" Margin="446,94,0,0" VerticalAlignment="Top" Width="135" Value="400" IsSnapToTickEnabled="True" TickFrequency="100" Maximum="800" Minimum="100"/>
+                <Slider x:Name ="ExposureCompensationSliderBar" HorizontalAlignment="Left" Margin="446,134,0,0" VerticalAlignment="Top" Width="135" Value="0" IsSnapToTickEnabled="True" TickFrequency="1" Maximum="10" Minimum="-10"/>
+            </Grid>
+        </Viewbox>
+        <Grid x:Name ="Format_Grid" Margin="39,0,80,172" Grid.Column="1">
+            <TextBlock HorizontalAlignment="Left" Margin="90,46,0,0" TextWrapping="Wrap" Text="Resolution(MEGA Pixel)" VerticalAlignment="Top"/>
+            <TextBlock x:Name="ResolutionTextBox" Width="35" Height="23" Margin="393,44,205,0" TextWrapping="Wrap" Text="{Binding Value, ElementName=ResolutionSliderBar}" VerticalAlignment="Top" RenderTransformOrigin="2.064,-0.114"/>
+            <Slider x:Name="ResolutionSliderBar" HorizontalAlignment="Left" Margin="232,45,0,0" VerticalAlignment="Top" Width="135" IsSnapToTickEnabled="True" TickFrequency="1" Maximum="5"  Minimum="1" Value="3" />
+        </Grid>
+        <!--<Grid x:Name="Capture_Grid" Margin="265,14,260,131">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="91*"/>
+                <ColumnDefinition Width="300*"/>
+            </Grid.ColumnDefinitions>
+            <Image x:Name="cimage" Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="100" Margin="35,19,0,0" VerticalAlignment="Top" Width="100"/>
+        </Grid>-->
+        <Button Click ="FormatButton_Click" Style="{StaticResource Button}" x:Name="FormatButton" Content="Format" HorizontalAlignment="Left" Margin="47,1,0,0" VerticalAlignment="Top" Width="100" Height="40"/>
+        <Button Click ="FControlButton_Click" Style="{StaticResource Button}" Content="Feature Control" HorizontalAlignment="Left" Margin="47,68,0,0" VerticalAlignment="Top" Width="100" Height="40"/>
+
+    </Grid>
+</Window>

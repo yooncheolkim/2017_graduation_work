@@ -1,0 +1,64 @@
+﻿<Window x:Class="Wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf"
+        mc:Ignorable="d"
+        Title="SEVA Camera Control Program" Height="960.222" Width="1634"
+        Closing="Window_Closing"
+        Background="#FFF6F9F2">
+
+    <Grid Margin="0,-20,0,-1" Height="862" VerticalAlignment="Top" >
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="175*"/>
+            <RowDefinition Height="256*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="305*"/>
+            <ColumnDefinition Width="1321*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Name ="WindowMainStack" HorizontalAlignment="Left" Height="611" Margin="1088,54,0,0" VerticalAlignment="Top" Width="195" Orientation="Vertical" Grid.Column="1" Grid.RowSpan="2"/>
+        <Button Style="{StaticResource Button}" Click="Camera_Control_Click" Content="Camera Control" HorizontalAlignment="Left" Margin="1088,48,0,0" VerticalAlignment="Top" Width="195" Height="39" Grid.Column="1" FontSize="14" Background="#FFDDDDDD" UseLayoutRounding="True"/>
+        <GroupBox Header="Camera Info" HorizontalAlignment="Left" Height="179" Margin="40,28,0,0" VerticalAlignment="Top" Width="180" >
+            <TextBlock x:Name="Client" HorizontalAlignment="Left" Height="23" Margin="5,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="155"/>
+        </GroupBox>
+        <TextBlock HorizontalAlignment="Left" Margin="51,54,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="23" Width="44" FontWeight="Bold"><Run Text="Client"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="51,107,0,0" TextWrapping="Wrap" Text="MAC Address" VerticalAlignment="Top" Width="79" Height="16" FontWeight="Bold"/>
+        <TextBlock HorizontalAlignment="Left" Margin="51,163,0,0" TextWrapping="Wrap" Text="IP Address" VerticalAlignment="Top" Width="79" Height="16" FontWeight="Bold"/>
+        <TextBlock HorizontalAlignment="Left" Margin="129,-78,0,0" TextWrapping="Wrap" Text="Width" VerticalAlignment="Top" Height="16" Width="40"/>
+        <Button x:Name="button" Style="{StaticResource Button}" Content="File Open" Grid.Column="1" HorizontalAlignment="Left" Height="39" Margin="1088,99,0,0" VerticalAlignment="Top" Width="194" Click="file_open_button_Click" FontSize="14" FontFamily="Malgun Gothic" Background="#FF373737" BorderBrush="#FF1D1717"/>
+        <Button x:Name="button_Copy1" Style="{StaticResource Button}" Content="Gray Convert Button" Grid.Column="1" HorizontalAlignment="Left" Height="39" Margin="1089,201,0,0" VerticalAlignment="Top" Width="194" Click="gray_convert_button_Click" FontSize="14" FontFamily="Malgun Gothic"/>
+        <Button x:Name="button_Copy2" Style="{StaticResource Button}" Content="Otsu" Grid.Column="1" HorizontalAlignment="Left" Height="39" Margin="1088,252,0,0" VerticalAlignment="Top" Width="194" Click="otsu_button_Click" FontSize="14" FontFamily="Malgun Gothic"/>
+        <Button x:Name="button_Copy3" Style="{StaticResource Button}" Content="Edge Detect" Grid.Column="1" HorizontalAlignment="Left" Height="39" Margin="1088,303,0,0" VerticalAlignment="Top" Width="194" Click="edge_detect_button_Click" FontSize="14" FontFamily="Malgun Gothic" UseLayoutRounding="True"/>
+        <Button x:Name ="zoom_button" Style="{StaticResource Button}" Content="Zoom" HorizontalAlignment="Left" Margin="1088,4,0,0" VerticalAlignment="Top" Width="194" Height="39" Grid.Column="1" Click="zoom_button_Click" FontSize="14" FontFamily="Malgun Gothic" Grid.Row="1"/>
+        <Grid HorizontalAlignment="Left" Height="250" Margin="30,321,0,-59" Grid.Row="1" VerticalAlignment="Top" Width="1569" Grid.ColumnSpan="2">
+            <ScrollViewer Name ="ScrollViewer" HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Disabled" Height="240" Margin="0,0,0,10" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="1569" >
+                <StackPanel Name="thumbnail" Orientation="Horizontal" FlowDirection="LeftToRight" Height="216" >
+
+                </StackPanel>
+            </ScrollViewer>
+        </Grid>
+        <Button x:Name="button_Copy" Style="{StaticResource Button}" Content="Reset Image" Grid.Column="1" HorizontalAlignment="Left" Height="39" Margin="1088,150,0,0" VerticalAlignment="Top" Width="194" Click="Reset" FontSize="14" FontFamily="Malgun Gothic"/>
+        <TextBlock x:Name="MAC" HorizontalAlignment="Left" Height="23" Margin="51,130,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="155" />
+        <TextBlock x:Name="IP" HorizontalAlignment="Left" Height="23" Margin="51,184,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="155"/>
+        <Image x:Name ="WindowMainImage" Height="609" Margin="263,40,266,0" VerticalAlignment="Top" Loaded="WindowMainImage_Loaded" ToolTip="Image Viewer" Grid.RowSpan="2" Grid.ColumnSpan="2" />
+        <Border BorderBrush="#FFC5C5C5" BorderThickness="4" HorizontalAlignment="Left" Height="610" Margin="263,38,0,0" VerticalAlignment="Top" Width="1090" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+        <Border BorderBrush="#FFC5C5C5" BorderThickness="4" Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="246" Margin="25,320,0,-54" Grid.Row="1" VerticalAlignment="Top" Width="1574" CornerRadius="5"/>
+        <Image x:Name="upbutton_png"    Margin="1130,258,156,219" Source="upbutton.png"    Stretch="Fill"  Grid.Row="1" MouseLeftButtonDown="upButtonDown" MouseLeftButtonUp="upButtonUp" Grid.Column="1"/>
+        <Image x:Name="rightbutton_png" Margin="1211,258,75,220"  Source="rightbutton.png" Stretch="Fill"  Grid.Row="1" MouseLeftButtonDown="rightButtonDown" MouseLeftButtonUp="rightButtonUp" Grid.Column="1"/>
+        <Image x:Name="leftbutton_png"  Margin="1089,259,197,219" Source="leftbutton.png"  Stretch="Fill"  Grid.Row="1" MouseLeftButtonDown="leftButtonDown" MouseLeftButtonUp="leftButtonUp" Grid.Column="1"/>
+        <Image x:Name="stopbutton_png"  Margin="1250,258,36,220"  Source="stopbutton.png"  Stretch="Fill"  Grid.Row="1" MouseLeftButtonDown="stopButtonClicked" Grid.Column="1"/>
+        <Image x:Name="downbutton_png"  Margin="1170,258,116,220" Source="downbutton.png"  Stretch="Fill"  Grid.Row="1" MouseLeftButtonDown="downButtonDown" MouseLeftButtonUp="downButtonUp" Grid.Column="1"/>
+        <Button x:Name="button_Copy5" Style="{StaticResource Button}" Content="Save Image" Grid.Column="1" HorizontalAlignment="Left" Height="39" Margin="1088,55,0,0" VerticalAlignment="Top" Width="194" Grid.Row="1" FontSize="14" FontFamily="Malgun Gothic" Click="StorageButton_Click"/>
+        <Button x:Name="button_Copy4" Style="{StaticResource Button}" Content="Inspection" Grid.Column="1" HorizontalAlignment="Left" Height="39" Margin="1088,106,0,0" VerticalAlignment="Top" Width="194" Grid.Row="1" FontSize="14" FontFamily="Malgun Gothic" Click="inspectionButtonClicked"/>
+        <Button x:Name="button_Copy7" Style="{StaticResource Button}" Content="Push" Grid.Column="1" HorizontalAlignment="Left" Height="39" Margin="1088,208,0,0" VerticalAlignment="Top" Width="90" Grid.Row="1" FontSize="14" FontFamily="Malgun Gothic" Click="pushButtonClicked"/>
+        <Button x:Name="button_Copy8" Style="{StaticResource Button}" Content="Pull" Grid.Column="1" HorizontalAlignment="Left" Height="39" Margin="1192,208,0,0" VerticalAlignment="Top" Width="90" Grid.Row="1" FontSize="14" FontFamily="Malgun Gothic" Click="pullButtonClicked"/>
+        <Button x:Name="button_Copy6" Style="{StaticResource Button}" Content="1" Grid.Column="1" HorizontalAlignment="Left" Height="39" Margin="1088,157,0,0" VerticalAlignment="Top" Width="40" Grid.Row="1" FontSize="14" FontFamily="Malgun Gothic" Click="button1_Clicked"/>
+        <Button x:Name="button_Copy9" Style="{StaticResource Button}" Content="2" Grid.Column="1" HorizontalAlignment="Left" Height="39" Margin="1139,157,0,0" VerticalAlignment="Top" Width="40" Grid.Row="1" FontSize="14" FontFamily="Malgun Gothic" Click="button2_Clicked"/>
+        <Button x:Name="button_Copy10" Style="{StaticResource Button}" Content="3" Grid.Column="1" HorizontalAlignment="Left" Height="39" Margin="1190,157,0,0" VerticalAlignment="Top" Width="40" Grid.Row="1" FontSize="14" FontFamily="Malgun Gothic" Click="button3_Clicked"/>
+        <Button x:Name="button_Copy11" Style="{StaticResource Button}" Content="4" Grid.Column="1" HorizontalAlignment="Left" Height="39" Margin="1242,157,0,0" VerticalAlignment="Top" Width="40" Grid.Row="1" FontSize="14" FontFamily="Malgun Gothic" Click="button4_Clicked"/>
+
+    </Grid>
+</Window>

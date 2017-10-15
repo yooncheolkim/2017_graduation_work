@@ -1,0 +1,1042 @@
+G:\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\Wpf.exe.config
+G:\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\Wpf.exe
+G:\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\Wpf.pdb
+G:\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\obj\Debug\Wpf.csprojResolveAssemblyReference.cache
+G:\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\obj\Debug\MainWindow.g.cs
+G:\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\obj\Debug\App.g.cs
+G:\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+G:\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+G:\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\obj\Debug\MainWindow.baml
+G:\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\obj\Debug\Wpf.g.resources
+G:\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+G:\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\obj\Debug\Wpf.csproj.GenerateResource.Cache
+G:\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\obj\Debug\Wpf.exe
+G:\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\obj\Debug\Wpf.pdb
+G:\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+G:\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+G:\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+G:\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+G:\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\OpenCvSharp.Blob.dll
+G:\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\OpenCvSharp.dll
+G:\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\OpenCvSharp.Extensions.dll
+G:\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\OpenCvSharp.UserInterface.dll
+G:\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\OpenCvSharp.pdb
+G:\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\OpenCvSharp.xml
+G:\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\OpenCvSharp.Blob.pdb
+G:\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\OpenCvSharp.Blob.xml
+G:\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\OpenCvSharp.Extensions.pdb
+G:\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\OpenCvSharp.Extensions.xml
+G:\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\OpenCvSharp.UserInterface.pdb
+G:\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\OpenCvSharp.UserInterface.xml
+G:\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\Newtonsoft.Json.dll
+G:\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sang.Y.Ji\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Sang.Y.Ji\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+C:\Users\Sang.Y.Ji\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Sang.Y.Ji\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+C:\Users\Sang.Y.Ji\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\Wpf.exe.config
+C:\Users\Sang.Y.Ji\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\Wpf.exe
+C:\Users\Sang.Y.Ji\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\Wpf.pdb
+C:\Users\Sang.Y.Ji\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sang.Y.Ji\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\Sang.Y.Ji\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\OpenCvSharp.dll
+C:\Users\Sang.Y.Ji\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\Sang.Y.Ji\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\Sang.Y.Ji\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sang.Y.Ji\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\OpenCvSharp.pdb
+C:\Users\Sang.Y.Ji\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\OpenCvSharp.xml
+C:\Users\Sang.Y.Ji\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\Sang.Y.Ji\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\Sang.Y.Ji\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\Sang.Y.Ji\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\Sang.Y.Ji\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\Sang.Y.Ji\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\Sang.Y.Ji\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\obj\Debug\Wpf.csprojResolveAssemblyReference.cache
+C:\Users\Sang.Y.Ji\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\Sang.Y.Ji\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\obj\Debug\App.g.cs
+C:\Users\Sang.Y.Ji\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+C:\Users\Sang.Y.Ji\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+C:\Users\Sang.Y.Ji\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\obj\Debug\MainWindow.baml
+C:\Users\Sang.Y.Ji\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\obj\Debug\Wpf.g.resources
+C:\Users\Sang.Y.Ji\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+C:\Users\Sang.Y.Ji\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\obj\Debug\Wpf.csproj.GenerateResource.Cache
+C:\Users\Sang.Y.Ji\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\obj\Debug\Wpf.exe
+C:\Users\Sang.Y.Ji\Dropbox\Sangorithm의 팀 폴더\지상엽\Wpf\Wpf\obj\Debug\Wpf.pdb
+E:\창권\KOREATECH\4학년 1학기(2017년)\170328USB정리\새 폴더\Wpf\Wpf\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\창권\KOREATECH\4학년 1학기(2017년)\170328USB정리\새 폴더\Wpf\Wpf\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+E:\창권\KOREATECH\4학년 1학기(2017년)\170328USB정리\새 폴더\Wpf\Wpf\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\창권\KOREATECH\4학년 1학기(2017년)\170328USB정리\새 폴더\Wpf\Wpf\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+E:\창권\KOREATECH\4학년 1학기(2017년)\170328USB정리\새 폴더\Wpf\Wpf\bin\Debug\Wpf.exe.config
+E:\창권\KOREATECH\4학년 1학기(2017년)\170328USB정리\새 폴더\Wpf\Wpf\bin\Debug\Wpf.exe
+E:\창권\KOREATECH\4학년 1학기(2017년)\170328USB정리\새 폴더\Wpf\Wpf\bin\Debug\Wpf.pdb
+E:\창권\KOREATECH\4학년 1학기(2017년)\170328USB정리\새 폴더\Wpf\Wpf\bin\Debug\Newtonsoft.Json.dll
+E:\창권\KOREATECH\4학년 1학기(2017년)\170328USB정리\새 폴더\Wpf\Wpf\bin\Debug\OpenCvSharp.Blob.dll
+E:\창권\KOREATECH\4학년 1학기(2017년)\170328USB정리\새 폴더\Wpf\Wpf\bin\Debug\OpenCvSharp.dll
+E:\창권\KOREATECH\4학년 1학기(2017년)\170328USB정리\새 폴더\Wpf\Wpf\bin\Debug\OpenCvSharp.Extensions.dll
+E:\창권\KOREATECH\4학년 1학기(2017년)\170328USB정리\새 폴더\Wpf\Wpf\bin\Debug\OpenCvSharp.UserInterface.dll
+E:\창권\KOREATECH\4학년 1학기(2017년)\170328USB정리\새 폴더\Wpf\Wpf\bin\Debug\Newtonsoft.Json.xml
+E:\창권\KOREATECH\4학년 1학기(2017년)\170328USB정리\새 폴더\Wpf\Wpf\bin\Debug\OpenCvSharp.pdb
+E:\창권\KOREATECH\4학년 1학기(2017년)\170328USB정리\새 폴더\Wpf\Wpf\bin\Debug\OpenCvSharp.xml
+E:\창권\KOREATECH\4학년 1학기(2017년)\170328USB정리\새 폴더\Wpf\Wpf\bin\Debug\OpenCvSharp.Blob.pdb
+E:\창권\KOREATECH\4학년 1학기(2017년)\170328USB정리\새 폴더\Wpf\Wpf\bin\Debug\OpenCvSharp.Blob.xml
+E:\창권\KOREATECH\4학년 1학기(2017년)\170328USB정리\새 폴더\Wpf\Wpf\bin\Debug\OpenCvSharp.Extensions.pdb
+E:\창권\KOREATECH\4학년 1학기(2017년)\170328USB정리\새 폴더\Wpf\Wpf\bin\Debug\OpenCvSharp.Extensions.xml
+E:\창권\KOREATECH\4학년 1학기(2017년)\170328USB정리\새 폴더\Wpf\Wpf\bin\Debug\OpenCvSharp.UserInterface.pdb
+E:\창권\KOREATECH\4학년 1학기(2017년)\170328USB정리\새 폴더\Wpf\Wpf\bin\Debug\OpenCvSharp.UserInterface.xml
+E:\창권\KOREATECH\4학년 1학기(2017년)\170328USB정리\새 폴더\Wpf\Wpf\obj\Debug\Wpf.csprojResolveAssemblyReference.cache
+E:\창권\KOREATECH\4학년 1학기(2017년)\170328USB정리\새 폴더\Wpf\Wpf\obj\Debug\MainWindow.g.cs
+E:\창권\KOREATECH\4학년 1학기(2017년)\170328USB정리\새 폴더\Wpf\Wpf\obj\Debug\App.g.cs
+E:\창권\KOREATECH\4학년 1학기(2017년)\170328USB정리\새 폴더\Wpf\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+E:\창권\KOREATECH\4학년 1학기(2017년)\170328USB정리\새 폴더\Wpf\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+E:\창권\KOREATECH\4학년 1학기(2017년)\170328USB정리\새 폴더\Wpf\Wpf\obj\Debug\MainWindow.baml
+E:\창권\KOREATECH\4학년 1학기(2017년)\170328USB정리\새 폴더\Wpf\Wpf\obj\Debug\Wpf.g.resources
+E:\창권\KOREATECH\4학년 1학기(2017년)\170328USB정리\새 폴더\Wpf\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+E:\창권\KOREATECH\4학년 1학기(2017년)\170328USB정리\새 폴더\Wpf\Wpf\obj\Debug\Wpf.csproj.GenerateResource.Cache
+E:\창권\KOREATECH\4학년 1학기(2017년)\170328USB정리\새 폴더\Wpf\Wpf\obj\Debug\Wpf.exe
+E:\창권\KOREATECH\4학년 1학기(2017년)\170328USB정리\새 폴더\Wpf\Wpf\obj\Debug\Wpf.pdb
+C:\Users\SCG\Desktop\Wpf\Wpf\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\SCG\Desktop\Wpf\Wpf\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+C:\Users\SCG\Desktop\Wpf\Wpf\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\SCG\Desktop\Wpf\Wpf\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+C:\Users\SCG\Desktop\Wpf\Wpf\bin\Debug\Wpf.exe.config
+C:\Users\SCG\Desktop\Wpf\Wpf\bin\Debug\Wpf.exe
+C:\Users\SCG\Desktop\Wpf\Wpf\bin\Debug\Wpf.pdb
+C:\Users\SCG\Desktop\Wpf\Wpf\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SCG\Desktop\Wpf\Wpf\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\SCG\Desktop\Wpf\Wpf\bin\Debug\OpenCvSharp.dll
+C:\Users\SCG\Desktop\Wpf\Wpf\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\SCG\Desktop\Wpf\Wpf\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\SCG\Desktop\Wpf\Wpf\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SCG\Desktop\Wpf\Wpf\bin\Debug\OpenCvSharp.pdb
+C:\Users\SCG\Desktop\Wpf\Wpf\bin\Debug\OpenCvSharp.xml
+C:\Users\SCG\Desktop\Wpf\Wpf\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\SCG\Desktop\Wpf\Wpf\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\SCG\Desktop\Wpf\Wpf\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\SCG\Desktop\Wpf\Wpf\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\SCG\Desktop\Wpf\Wpf\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\SCG\Desktop\Wpf\Wpf\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\SCG\Desktop\Wpf\Wpf\obj\Debug\Wpf.csprojResolveAssemblyReference.cache
+C:\Users\SCG\Desktop\Wpf\Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\SCG\Desktop\Wpf\Wpf\obj\Debug\App.g.cs
+C:\Users\SCG\Desktop\Wpf\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+C:\Users\SCG\Desktop\Wpf\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+C:\Users\SCG\Desktop\Wpf\Wpf\obj\Debug\MainWindow.baml
+C:\Users\SCG\Desktop\Wpf\Wpf\obj\Debug\Wpf.g.resources
+C:\Users\SCG\Desktop\Wpf\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+C:\Users\SCG\Desktop\Wpf\Wpf\obj\Debug\Wpf.csproj.GenerateResource.Cache
+C:\Users\SCG\Desktop\Wpf\Wpf\obj\Debug\Wpf.exe
+C:\Users\SCG\Desktop\Wpf\Wpf\obj\Debug\Wpf.pdb
+C:\Users\SCG\Desktop\Wpf-170813\Wpf\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\SCG\Desktop\Wpf-170813\Wpf\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+C:\Users\SCG\Desktop\Wpf-170813\Wpf\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\SCG\Desktop\Wpf-170813\Wpf\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+C:\Users\SCG\Desktop\Wpf-170813\Wpf\bin\Debug\Wpf.exe.config
+C:\Users\SCG\Desktop\Wpf-170813\Wpf\bin\Debug\Wpf.exe
+C:\Users\SCG\Desktop\Wpf-170813\Wpf\bin\Debug\Wpf.pdb
+C:\Users\SCG\Desktop\Wpf-170813\Wpf\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SCG\Desktop\Wpf-170813\Wpf\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\SCG\Desktop\Wpf-170813\Wpf\bin\Debug\OpenCvSharp.dll
+C:\Users\SCG\Desktop\Wpf-170813\Wpf\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\SCG\Desktop\Wpf-170813\Wpf\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\SCG\Desktop\Wpf-170813\Wpf\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SCG\Desktop\Wpf-170813\Wpf\bin\Debug\OpenCvSharp.pdb
+C:\Users\SCG\Desktop\Wpf-170813\Wpf\bin\Debug\OpenCvSharp.xml
+C:\Users\SCG\Desktop\Wpf-170813\Wpf\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\SCG\Desktop\Wpf-170813\Wpf\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\SCG\Desktop\Wpf-170813\Wpf\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\SCG\Desktop\Wpf-170813\Wpf\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\SCG\Desktop\Wpf-170813\Wpf\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\SCG\Desktop\Wpf-170813\Wpf\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\SCG\Desktop\Wpf-170813\Wpf\obj\Debug\Wpf.csprojResolveAssemblyReference.cache
+C:\Users\SCG\Desktop\Wpf-170813\Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\SCG\Desktop\Wpf-170813\Wpf\obj\Debug\App.g.cs
+C:\Users\SCG\Desktop\Wpf-170813\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+C:\Users\SCG\Desktop\Wpf-170813\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+C:\Users\SCG\Desktop\Wpf-170813\Wpf\obj\Debug\MainWindow.baml
+C:\Users\SCG\Desktop\Wpf-170813\Wpf\obj\Debug\Wpf.g.resources
+C:\Users\SCG\Desktop\Wpf-170813\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+C:\Users\SCG\Desktop\Wpf-170813\Wpf\obj\Debug\Wpf.csproj.GenerateResource.Cache
+C:\Users\SCG\Desktop\Wpf-170813\Wpf\obj\Debug\Wpf.exe
+C:\Users\SCG\Desktop\Wpf-170813\Wpf\obj\Debug\Wpf.pdb
+C:\Users\SCG\Desktop\Wpf-170813\Wpf\obj\Debug\Test.g.cs
+C:\Users\SCG\Desktop\Wpf-170813\Wpf\obj\Debug\Test.baml
+C:\Users\SCG\Desktop\Wpf-170814\Wpf\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\SCG\Desktop\Wpf-170814\Wpf\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+C:\Users\SCG\Desktop\Wpf-170814\Wpf\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\SCG\Desktop\Wpf-170814\Wpf\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+C:\Users\SCG\Desktop\Wpf-170814\Wpf\bin\Debug\Wpf.exe.config
+C:\Users\SCG\Desktop\Wpf-170814\Wpf\bin\Debug\Wpf.exe
+C:\Users\SCG\Desktop\Wpf-170814\Wpf\bin\Debug\Wpf.pdb
+C:\Users\SCG\Desktop\Wpf-170814\Wpf\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SCG\Desktop\Wpf-170814\Wpf\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\SCG\Desktop\Wpf-170814\Wpf\bin\Debug\OpenCvSharp.dll
+C:\Users\SCG\Desktop\Wpf-170814\Wpf\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\SCG\Desktop\Wpf-170814\Wpf\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\SCG\Desktop\Wpf-170814\Wpf\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SCG\Desktop\Wpf-170814\Wpf\bin\Debug\OpenCvSharp.pdb
+C:\Users\SCG\Desktop\Wpf-170814\Wpf\bin\Debug\OpenCvSharp.xml
+C:\Users\SCG\Desktop\Wpf-170814\Wpf\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\SCG\Desktop\Wpf-170814\Wpf\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\SCG\Desktop\Wpf-170814\Wpf\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\SCG\Desktop\Wpf-170814\Wpf\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\SCG\Desktop\Wpf-170814\Wpf\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\SCG\Desktop\Wpf-170814\Wpf\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\SCG\Desktop\Wpf-170814\Wpf\obj\Debug\Wpf.csprojResolveAssemblyReference.cache
+C:\Users\SCG\Desktop\Wpf-170814\Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\SCG\Desktop\Wpf-170814\Wpf\obj\Debug\Test.g.cs
+C:\Users\SCG\Desktop\Wpf-170814\Wpf\obj\Debug\App.g.cs
+C:\Users\SCG\Desktop\Wpf-170814\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+C:\Users\SCG\Desktop\Wpf-170814\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+C:\Users\SCG\Desktop\Wpf-170814\Wpf\obj\Debug\MainWindow.baml
+C:\Users\SCG\Desktop\Wpf-170814\Wpf\obj\Debug\Test.baml
+C:\Users\SCG\Desktop\Wpf-170814\Wpf\obj\Debug\Wpf.g.resources
+C:\Users\SCG\Desktop\Wpf-170814\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+C:\Users\SCG\Desktop\Wpf-170814\Wpf\obj\Debug\Wpf.csproj.GenerateResource.Cache
+C:\Users\SCG\Desktop\Wpf-170814\Wpf\obj\Debug\Wpf.exe
+C:\Users\SCG\Desktop\Wpf-170814\Wpf\obj\Debug\Wpf.pdb
+C:\Users\SCG\Desktop\Wpf-170815\Wpf\obj\Debug\Wpf.csprojResolveAssemblyReference.cache
+C:\Users\SCG\Desktop\Wpf-170815\Wpf\obj\Debug\Test.g.cs
+C:\Users\SCG\Desktop\Wpf-170815\Wpf\obj\Debug\App.g.cs
+C:\Users\SCG\Desktop\Wpf-170815\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+C:\Users\SCG\Desktop\Wpf-170815\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+C:\Users\SCG\Desktop\Wpf-170815\Wpf\obj\Debug\Wpf.exe
+C:\Users\SCG\Desktop\Wpf-170815\Wpf\obj\Debug\Wpf.pdb
+C:\Users\SCG\Desktop\Wpf-170815\Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\SCG\Desktop\Wpf-170815\Wpf\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\SCG\Desktop\Wpf-170815\Wpf\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+C:\Users\SCG\Desktop\Wpf-170815\Wpf\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\SCG\Desktop\Wpf-170815\Wpf\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+C:\Users\SCG\Desktop\Wpf-170815\Wpf\bin\Debug\Wpf.exe.config
+C:\Users\SCG\Desktop\Wpf-170815\Wpf\bin\Debug\Wpf.exe
+C:\Users\SCG\Desktop\Wpf-170815\Wpf\bin\Debug\Wpf.pdb
+C:\Users\SCG\Desktop\Wpf-170815\Wpf\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SCG\Desktop\Wpf-170815\Wpf\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\SCG\Desktop\Wpf-170815\Wpf\bin\Debug\OpenCvSharp.dll
+C:\Users\SCG\Desktop\Wpf-170815\Wpf\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\SCG\Desktop\Wpf-170815\Wpf\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\SCG\Desktop\Wpf-170815\Wpf\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SCG\Desktop\Wpf-170815\Wpf\bin\Debug\OpenCvSharp.pdb
+C:\Users\SCG\Desktop\Wpf-170815\Wpf\bin\Debug\OpenCvSharp.xml
+C:\Users\SCG\Desktop\Wpf-170815\Wpf\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\SCG\Desktop\Wpf-170815\Wpf\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\SCG\Desktop\Wpf-170815\Wpf\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\SCG\Desktop\Wpf-170815\Wpf\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\SCG\Desktop\Wpf-170815\Wpf\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\SCG\Desktop\Wpf-170815\Wpf\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\SCG\Desktop\Wpf-170815\Wpf\obj\Debug\MainWindow.baml
+C:\Users\SCG\Desktop\Wpf-170815\Wpf\obj\Debug\Test.baml
+C:\Users\SCG\Desktop\Wpf-170815\Wpf\obj\Debug\Wpf.g.resources
+C:\Users\SCG\Desktop\Wpf-170815\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+C:\Users\SCG\Desktop\Wpf-170815\Wpf\obj\Debug\Wpf.csproj.GenerateResource.Cache
+C:\Users\SCG\Desktop\Wpf-170816\Wpf\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\SCG\Desktop\Wpf-170816\Wpf\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+C:\Users\SCG\Desktop\Wpf-170816\Wpf\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\SCG\Desktop\Wpf-170816\Wpf\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+C:\Users\SCG\Desktop\Wpf-170816\Wpf\bin\Debug\Wpf.exe.config
+C:\Users\SCG\Desktop\Wpf-170816\Wpf\bin\Debug\Wpf.exe
+C:\Users\SCG\Desktop\Wpf-170816\Wpf\bin\Debug\Wpf.pdb
+C:\Users\SCG\Desktop\Wpf-170816\Wpf\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SCG\Desktop\Wpf-170816\Wpf\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\SCG\Desktop\Wpf-170816\Wpf\bin\Debug\OpenCvSharp.dll
+C:\Users\SCG\Desktop\Wpf-170816\Wpf\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\SCG\Desktop\Wpf-170816\Wpf\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\SCG\Desktop\Wpf-170816\Wpf\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SCG\Desktop\Wpf-170816\Wpf\bin\Debug\OpenCvSharp.pdb
+C:\Users\SCG\Desktop\Wpf-170816\Wpf\bin\Debug\OpenCvSharp.xml
+C:\Users\SCG\Desktop\Wpf-170816\Wpf\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\SCG\Desktop\Wpf-170816\Wpf\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\SCG\Desktop\Wpf-170816\Wpf\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\SCG\Desktop\Wpf-170816\Wpf\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\SCG\Desktop\Wpf-170816\Wpf\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\SCG\Desktop\Wpf-170816\Wpf\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\SCG\Desktop\Wpf-170816\Wpf\obj\Debug\Wpf.csprojResolveAssemblyReference.cache
+C:\Users\SCG\Desktop\Wpf-170816\Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\SCG\Desktop\Wpf-170816\Wpf\obj\Debug\Test.g.cs
+C:\Users\SCG\Desktop\Wpf-170816\Wpf\obj\Debug\App.g.cs
+C:\Users\SCG\Desktop\Wpf-170816\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+C:\Users\SCG\Desktop\Wpf-170816\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+C:\Users\SCG\Desktop\Wpf-170816\Wpf\obj\Debug\MainWindow.baml
+C:\Users\SCG\Desktop\Wpf-170816\Wpf\obj\Debug\Test.baml
+C:\Users\SCG\Desktop\Wpf-170816\Wpf\obj\Debug\Wpf.g.resources
+C:\Users\SCG\Desktop\Wpf-170816\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+C:\Users\SCG\Desktop\Wpf-170816\Wpf\obj\Debug\Wpf.csproj.GenerateResource.Cache
+C:\Users\SCG\Desktop\Wpf-170816\Wpf\obj\Debug\Wpf.exe
+C:\Users\SCG\Desktop\Wpf-170816\Wpf\obj\Debug\Wpf.pdb
+C:\Users\현희\Desktop\Wpf-170816\Wpf\obj\Debug\Wpf.csprojResolveAssemblyReference.cache
+C:\Users\현희\Desktop\Wpf-170816\Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\현희\Desktop\Wpf-170816\Wpf\obj\Debug\Test.g.cs
+C:\Users\현희\Desktop\Wpf-170816\Wpf\obj\Debug\App.g.cs
+C:\Users\현희\Desktop\Wpf-170816\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+C:\Users\현희\Desktop\Wpf-170816\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+C:\Users\현희\Desktop\Wpf-170816\Wpf\obj\Debug\Wpf.exe
+C:\Users\현희\Desktop\Wpf-170816\Wpf\obj\Debug\Wpf.pdb
+C:\Users\현희\Desktop\Wpf-170816\Wpf\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\현희\Desktop\Wpf-170816\Wpf\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+C:\Users\현희\Desktop\Wpf-170816\Wpf\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\현희\Desktop\Wpf-170816\Wpf\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+C:\Users\현희\Desktop\Wpf-170816\Wpf\bin\Debug\Wpf.exe.config
+C:\Users\현희\Desktop\Wpf-170816\Wpf\bin\Debug\Wpf.exe
+C:\Users\현희\Desktop\Wpf-170816\Wpf\bin\Debug\Wpf.pdb
+C:\Users\현희\Desktop\Wpf-170816\Wpf\bin\Debug\Newtonsoft.Json.dll
+C:\Users\현희\Desktop\Wpf-170816\Wpf\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\현희\Desktop\Wpf-170816\Wpf\bin\Debug\OpenCvSharp.dll
+C:\Users\현희\Desktop\Wpf-170816\Wpf\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\현희\Desktop\Wpf-170816\Wpf\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\현희\Desktop\Wpf-170816\Wpf\bin\Debug\Newtonsoft.Json.xml
+C:\Users\현희\Desktop\Wpf-170816\Wpf\bin\Debug\OpenCvSharp.pdb
+C:\Users\현희\Desktop\Wpf-170816\Wpf\bin\Debug\OpenCvSharp.xml
+C:\Users\현희\Desktop\Wpf-170816\Wpf\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\현희\Desktop\Wpf-170816\Wpf\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\현희\Desktop\Wpf-170816\Wpf\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\현희\Desktop\Wpf-170816\Wpf\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\현희\Desktop\Wpf-170816\Wpf\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\현희\Desktop\Wpf-170816\Wpf\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\현희\Desktop\Wpf-170816\Wpf\obj\Debug\MainWindow.baml
+C:\Users\현희\Desktop\Wpf-170816\Wpf\obj\Debug\Test.baml
+C:\Users\현희\Desktop\Wpf-170816\Wpf\obj\Debug\Wpf.g.resources
+C:\Users\현희\Desktop\Wpf-170816\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+C:\Users\현희\Desktop\Wpf-170816\Wpf\obj\Debug\Wpf.csproj.GenerateResource.Cache
+C:\Users\yoonc\Desktop\Wpf-170818\Wpf\obj\Debug\Wpf.csprojResolveAssemblyReference.cache
+C:\Users\yoonc\Desktop\Wpf-170818\Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\yoonc\Desktop\Wpf-170818\Wpf\obj\Debug\Test.g.cs
+C:\Users\yoonc\Desktop\Wpf-170818\Wpf\obj\Debug\App.g.cs
+C:\Users\yoonc\Desktop\Wpf-170818\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+C:\Users\yoonc\Desktop\Wpf-170818\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+C:\Users\yoonc\Desktop\Wpf-170818\Wpf\obj\Debug\Wpf.exe
+C:\Users\yoonc\Desktop\Wpf-170818\Wpf\obj\Debug\Wpf.pdb
+C:\Users\yoonc\Desktop\Wpf-170818\Wpf\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\yoonc\Desktop\Wpf-170818\Wpf\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+C:\Users\yoonc\Desktop\Wpf-170818\Wpf\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\yoonc\Desktop\Wpf-170818\Wpf\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+C:\Users\yoonc\Desktop\Wpf-170818\Wpf\bin\Debug\Wpf.exe.config
+C:\Users\yoonc\Desktop\Wpf-170818\Wpf\bin\Debug\Wpf.exe
+C:\Users\yoonc\Desktop\Wpf-170818\Wpf\bin\Debug\Wpf.pdb
+C:\Users\yoonc\Desktop\Wpf-170818\Wpf\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yoonc\Desktop\Wpf-170818\Wpf\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\yoonc\Desktop\Wpf-170818\Wpf\bin\Debug\OpenCvSharp.dll
+C:\Users\yoonc\Desktop\Wpf-170818\Wpf\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\yoonc\Desktop\Wpf-170818\Wpf\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\yoonc\Desktop\Wpf-170818\Wpf\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yoonc\Desktop\Wpf-170818\Wpf\bin\Debug\OpenCvSharp.pdb
+C:\Users\yoonc\Desktop\Wpf-170818\Wpf\bin\Debug\OpenCvSharp.xml
+C:\Users\yoonc\Desktop\Wpf-170818\Wpf\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\yoonc\Desktop\Wpf-170818\Wpf\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\yoonc\Desktop\Wpf-170818\Wpf\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\yoonc\Desktop\Wpf-170818\Wpf\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\yoonc\Desktop\Wpf-170818\Wpf\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\yoonc\Desktop\Wpf-170818\Wpf\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\yoonc\Desktop\Wpf-170818\Wpf\obj\Debug\MainWindow.baml
+C:\Users\yoonc\Desktop\Wpf-170818\Wpf\obj\Debug\Test.baml
+C:\Users\yoonc\Desktop\Wpf-170818\Wpf\obj\Debug\Wpf.g.resources
+C:\Users\yoonc\Desktop\Wpf-170818\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+C:\Users\yoonc\Desktop\Wpf-170818\Wpf\obj\Debug\Wpf.csproj.GenerateResource.Cache
+C:\Users\SCG\Desktop\Wpf-170828_yooncheol\Wpf\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\SCG\Desktop\Wpf-170828_yooncheol\Wpf\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+C:\Users\SCG\Desktop\Wpf-170828_yooncheol\Wpf\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\SCG\Desktop\Wpf-170828_yooncheol\Wpf\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+C:\Users\SCG\Desktop\Wpf-170828_yooncheol\Wpf\bin\Debug\Wpf.exe.config
+C:\Users\SCG\Desktop\Wpf-170828_yooncheol\Wpf\bin\Debug\Wpf.exe
+C:\Users\SCG\Desktop\Wpf-170828_yooncheol\Wpf\bin\Debug\Wpf.pdb
+C:\Users\SCG\Desktop\Wpf-170828_yooncheol\Wpf\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SCG\Desktop\Wpf-170828_yooncheol\Wpf\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\SCG\Desktop\Wpf-170828_yooncheol\Wpf\bin\Debug\OpenCvSharp.dll
+C:\Users\SCG\Desktop\Wpf-170828_yooncheol\Wpf\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\SCG\Desktop\Wpf-170828_yooncheol\Wpf\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\SCG\Desktop\Wpf-170828_yooncheol\Wpf\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SCG\Desktop\Wpf-170828_yooncheol\Wpf\bin\Debug\OpenCvSharp.pdb
+C:\Users\SCG\Desktop\Wpf-170828_yooncheol\Wpf\bin\Debug\OpenCvSharp.xml
+C:\Users\SCG\Desktop\Wpf-170828_yooncheol\Wpf\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\SCG\Desktop\Wpf-170828_yooncheol\Wpf\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\SCG\Desktop\Wpf-170828_yooncheol\Wpf\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\SCG\Desktop\Wpf-170828_yooncheol\Wpf\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\SCG\Desktop\Wpf-170828_yooncheol\Wpf\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\SCG\Desktop\Wpf-170828_yooncheol\Wpf\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\SCG\Desktop\Wpf-170828_yooncheol\Wpf\obj\Debug\Wpf.csprojResolveAssemblyReference.cache
+C:\Users\SCG\Desktop\Wpf-170828_yooncheol\Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\SCG\Desktop\Wpf-170828_yooncheol\Wpf\obj\Debug\Test.g.cs
+C:\Users\SCG\Desktop\Wpf-170828_yooncheol\Wpf\obj\Debug\App.g.cs
+C:\Users\SCG\Desktop\Wpf-170828_yooncheol\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+C:\Users\SCG\Desktop\Wpf-170828_yooncheol\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+C:\Users\SCG\Desktop\Wpf-170828_yooncheol\Wpf\obj\Debug\MainWindow.baml
+C:\Users\SCG\Desktop\Wpf-170828_yooncheol\Wpf\obj\Debug\Test.baml
+C:\Users\SCG\Desktop\Wpf-170828_yooncheol\Wpf\obj\Debug\Wpf.g.resources
+C:\Users\SCG\Desktop\Wpf-170828_yooncheol\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+C:\Users\SCG\Desktop\Wpf-170828_yooncheol\Wpf\obj\Debug\Wpf.csproj.GenerateResource.Cache
+C:\Users\SCG\Desktop\Wpf-170828_yooncheol\Wpf\obj\Debug\Wpf.exe
+C:\Users\SCG\Desktop\Wpf-170828_yooncheol\Wpf\obj\Debug\Wpf.pdb
+D:\졸작\Wpf-170829\Wpf\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\졸작\Wpf-170829\Wpf\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+D:\졸작\Wpf-170829\Wpf\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\졸작\Wpf-170829\Wpf\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+D:\졸작\Wpf-170829\Wpf\bin\Debug\Wpf.exe.config
+D:\졸작\Wpf-170829\Wpf\bin\Debug\Wpf.exe
+D:\졸작\Wpf-170829\Wpf\bin\Debug\Wpf.pdb
+D:\졸작\Wpf-170829\Wpf\bin\Debug\Newtonsoft.Json.dll
+D:\졸작\Wpf-170829\Wpf\bin\Debug\OpenCvSharp.Blob.dll
+D:\졸작\Wpf-170829\Wpf\bin\Debug\OpenCvSharp.dll
+D:\졸작\Wpf-170829\Wpf\bin\Debug\OpenCvSharp.Extensions.dll
+D:\졸작\Wpf-170829\Wpf\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\졸작\Wpf-170829\Wpf\bin\Debug\Newtonsoft.Json.xml
+D:\졸작\Wpf-170829\Wpf\bin\Debug\OpenCvSharp.pdb
+D:\졸작\Wpf-170829\Wpf\bin\Debug\OpenCvSharp.xml
+D:\졸작\Wpf-170829\Wpf\bin\Debug\OpenCvSharp.Blob.pdb
+D:\졸작\Wpf-170829\Wpf\bin\Debug\OpenCvSharp.Blob.xml
+D:\졸작\Wpf-170829\Wpf\bin\Debug\OpenCvSharp.Extensions.pdb
+D:\졸작\Wpf-170829\Wpf\bin\Debug\OpenCvSharp.Extensions.xml
+D:\졸작\Wpf-170829\Wpf\bin\Debug\OpenCvSharp.UserInterface.pdb
+D:\졸작\Wpf-170829\Wpf\bin\Debug\OpenCvSharp.UserInterface.xml
+D:\졸작\Wpf-170829\Wpf\obj\Debug\Wpf.csprojResolveAssemblyReference.cache
+D:\졸작\Wpf-170829\Wpf\obj\Debug\MainWindow.g.cs
+D:\졸작\Wpf-170829\Wpf\obj\Debug\Test.g.cs
+D:\졸작\Wpf-170829\Wpf\obj\Debug\App.g.cs
+D:\졸작\Wpf-170829\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+D:\졸작\Wpf-170829\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+D:\졸작\Wpf-170829\Wpf\obj\Debug\MainWindow.baml
+D:\졸작\Wpf-170829\Wpf\obj\Debug\Test.baml
+D:\졸작\Wpf-170829\Wpf\obj\Debug\Wpf.g.resources
+D:\졸작\Wpf-170829\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+D:\졸작\Wpf-170829\Wpf\obj\Debug\Wpf.csproj.GenerateResource.Cache
+D:\졸작\Wpf-170829\Wpf\obj\Debug\Wpf.exe
+D:\졸작\Wpf-170829\Wpf\obj\Debug\Wpf.pdb
+C:\Users\SCG\Desktop\Wpf-170829\Wpf\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\SCG\Desktop\Wpf-170829\Wpf\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+C:\Users\SCG\Desktop\Wpf-170829\Wpf\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\SCG\Desktop\Wpf-170829\Wpf\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+C:\Users\SCG\Desktop\Wpf-170829\Wpf\bin\Debug\Wpf.exe.config
+C:\Users\SCG\Desktop\Wpf-170829\Wpf\bin\Debug\Wpf.exe
+C:\Users\SCG\Desktop\Wpf-170829\Wpf\bin\Debug\Wpf.pdb
+C:\Users\SCG\Desktop\Wpf-170829\Wpf\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SCG\Desktop\Wpf-170829\Wpf\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\SCG\Desktop\Wpf-170829\Wpf\bin\Debug\OpenCvSharp.dll
+C:\Users\SCG\Desktop\Wpf-170829\Wpf\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\SCG\Desktop\Wpf-170829\Wpf\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\SCG\Desktop\Wpf-170829\Wpf\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SCG\Desktop\Wpf-170829\Wpf\bin\Debug\OpenCvSharp.pdb
+C:\Users\SCG\Desktop\Wpf-170829\Wpf\bin\Debug\OpenCvSharp.xml
+C:\Users\SCG\Desktop\Wpf-170829\Wpf\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\SCG\Desktop\Wpf-170829\Wpf\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\SCG\Desktop\Wpf-170829\Wpf\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\SCG\Desktop\Wpf-170829\Wpf\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\SCG\Desktop\Wpf-170829\Wpf\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\SCG\Desktop\Wpf-170829\Wpf\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\SCG\Desktop\Wpf-170829\Wpf\obj\Debug\Wpf.csprojResolveAssemblyReference.cache
+C:\Users\SCG\Desktop\Wpf-170829\Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\SCG\Desktop\Wpf-170829\Wpf\obj\Debug\Test.g.cs
+C:\Users\SCG\Desktop\Wpf-170829\Wpf\obj\Debug\App.g.cs
+C:\Users\SCG\Desktop\Wpf-170829\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+C:\Users\SCG\Desktop\Wpf-170829\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+C:\Users\SCG\Desktop\Wpf-170829\Wpf\obj\Debug\MainWindow.baml
+C:\Users\SCG\Desktop\Wpf-170829\Wpf\obj\Debug\Test.baml
+C:\Users\SCG\Desktop\Wpf-170829\Wpf\obj\Debug\Wpf.g.resources
+C:\Users\SCG\Desktop\Wpf-170829\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+C:\Users\SCG\Desktop\Wpf-170829\Wpf\obj\Debug\Wpf.csproj.GenerateResource.Cache
+C:\Users\SCG\Desktop\Wpf-170829\Wpf\obj\Debug\Wpf.exe
+C:\Users\SCG\Desktop\Wpf-170829\Wpf\obj\Debug\Wpf.pdb
+C:\Users\SCG\Desktop\Wpf-170829\Wpf\obj\Debug\zoom_window.g.cs
+C:\Users\SCG\Desktop\Wpf-170829\Wpf\obj\Debug\zoom_window.baml
+C:\Users\SCG\Desktop\Wpf-170903\Wpf\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\SCG\Desktop\Wpf-170903\Wpf\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+C:\Users\SCG\Desktop\Wpf-170903\Wpf\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\SCG\Desktop\Wpf-170903\Wpf\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+C:\Users\SCG\Desktop\Wpf-170903\Wpf\bin\Debug\Wpf.exe.config
+C:\Users\SCG\Desktop\Wpf-170903\Wpf\bin\Debug\Wpf.exe
+C:\Users\SCG\Desktop\Wpf-170903\Wpf\bin\Debug\Wpf.pdb
+C:\Users\SCG\Desktop\Wpf-170903\Wpf\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SCG\Desktop\Wpf-170903\Wpf\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\SCG\Desktop\Wpf-170903\Wpf\bin\Debug\OpenCvSharp.dll
+C:\Users\SCG\Desktop\Wpf-170903\Wpf\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\SCG\Desktop\Wpf-170903\Wpf\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\SCG\Desktop\Wpf-170903\Wpf\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SCG\Desktop\Wpf-170903\Wpf\bin\Debug\OpenCvSharp.pdb
+C:\Users\SCG\Desktop\Wpf-170903\Wpf\bin\Debug\OpenCvSharp.xml
+C:\Users\SCG\Desktop\Wpf-170903\Wpf\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\SCG\Desktop\Wpf-170903\Wpf\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\SCG\Desktop\Wpf-170903\Wpf\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\SCG\Desktop\Wpf-170903\Wpf\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\SCG\Desktop\Wpf-170903\Wpf\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\SCG\Desktop\Wpf-170903\Wpf\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\SCG\Desktop\Wpf-170903\Wpf\obj\Debug\Wpf.csprojResolveAssemblyReference.cache
+C:\Users\SCG\Desktop\Wpf-170903\Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\SCG\Desktop\Wpf-170903\Wpf\obj\Debug\Test.g.cs
+C:\Users\SCG\Desktop\Wpf-170903\Wpf\obj\Debug\zoom_window.g.cs
+C:\Users\SCG\Desktop\Wpf-170903\Wpf\obj\Debug\App.g.cs
+C:\Users\SCG\Desktop\Wpf-170903\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+C:\Users\SCG\Desktop\Wpf-170903\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+C:\Users\SCG\Desktop\Wpf-170903\Wpf\obj\Debug\MainWindow.baml
+C:\Users\SCG\Desktop\Wpf-170903\Wpf\obj\Debug\Test.baml
+C:\Users\SCG\Desktop\Wpf-170903\Wpf\obj\Debug\zoom_window.baml
+C:\Users\SCG\Desktop\Wpf-170903\Wpf\obj\Debug\Wpf.g.resources
+C:\Users\SCG\Desktop\Wpf-170903\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+C:\Users\SCG\Desktop\Wpf-170903\Wpf\obj\Debug\Wpf.csproj.GenerateResource.Cache
+C:\Users\SCG\Desktop\Wpf-170903\Wpf\obj\Debug\Wpf.exe
+C:\Users\SCG\Desktop\Wpf-170903\Wpf\obj\Debug\Wpf.pdb
+C:\Users\SCG\Desktop\Wpf-170907\Wpf\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\SCG\Desktop\Wpf-170907\Wpf\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+C:\Users\SCG\Desktop\Wpf-170907\Wpf\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\SCG\Desktop\Wpf-170907\Wpf\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+C:\Users\SCG\Desktop\Wpf-170907\Wpf\bin\Debug\Wpf.exe.config
+C:\Users\SCG\Desktop\Wpf-170907\Wpf\bin\Debug\Wpf.exe
+C:\Users\SCG\Desktop\Wpf-170907\Wpf\bin\Debug\Wpf.pdb
+C:\Users\SCG\Desktop\Wpf-170907\Wpf\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SCG\Desktop\Wpf-170907\Wpf\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\SCG\Desktop\Wpf-170907\Wpf\bin\Debug\OpenCvSharp.dll
+C:\Users\SCG\Desktop\Wpf-170907\Wpf\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\SCG\Desktop\Wpf-170907\Wpf\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\SCG\Desktop\Wpf-170907\Wpf\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SCG\Desktop\Wpf-170907\Wpf\bin\Debug\OpenCvSharp.pdb
+C:\Users\SCG\Desktop\Wpf-170907\Wpf\bin\Debug\OpenCvSharp.xml
+C:\Users\SCG\Desktop\Wpf-170907\Wpf\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\SCG\Desktop\Wpf-170907\Wpf\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\SCG\Desktop\Wpf-170907\Wpf\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\SCG\Desktop\Wpf-170907\Wpf\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\SCG\Desktop\Wpf-170907\Wpf\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\SCG\Desktop\Wpf-170907\Wpf\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\SCG\Desktop\Wpf-170907\Wpf\obj\Debug\Wpf.csprojResolveAssemblyReference.cache
+C:\Users\SCG\Desktop\Wpf-170907\Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\SCG\Desktop\Wpf-170907\Wpf\obj\Debug\Test.g.cs
+C:\Users\SCG\Desktop\Wpf-170907\Wpf\obj\Debug\zoom_window.g.cs
+C:\Users\SCG\Desktop\Wpf-170907\Wpf\obj\Debug\App.g.cs
+C:\Users\SCG\Desktop\Wpf-170907\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+C:\Users\SCG\Desktop\Wpf-170907\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+C:\Users\SCG\Desktop\Wpf-170907\Wpf\obj\Debug\MainWindow.baml
+C:\Users\SCG\Desktop\Wpf-170907\Wpf\obj\Debug\Test.baml
+C:\Users\SCG\Desktop\Wpf-170907\Wpf\obj\Debug\zoom_window.baml
+C:\Users\SCG\Desktop\Wpf-170907\Wpf\obj\Debug\Wpf.g.resources
+C:\Users\SCG\Desktop\Wpf-170907\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+C:\Users\SCG\Desktop\Wpf-170907\Wpf\obj\Debug\Wpf.csproj.GenerateResource.Cache
+C:\Users\SCG\Desktop\Wpf-170907\Wpf\obj\Debug\Wpf.exe
+C:\Users\SCG\Desktop\Wpf-170907\Wpf\obj\Debug\Wpf.pdb
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\bin\Debug\Wpf.exe.config
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\bin\Debug\Wpf.exe
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\bin\Debug\Wpf.pdb
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\bin\Debug\OpenCvSharp.dll
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\bin\Debug\OpenCvSharp.pdb
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\bin\Debug\OpenCvSharp.xml
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\obj\Debug\Wpf.csprojResolveAssemblyReference.cache
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\obj\Debug\history.g.cs
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\obj\Debug\Test.g.cs
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\obj\Debug\zoom_window.g.cs
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\obj\Debug\App.g.cs
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\obj\Debug\history.baml
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\obj\Debug\MainWindow.baml
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\obj\Debug\Test.baml
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\obj\Debug\zoom_window.baml
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\obj\Debug\Wpf.g.resources
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\obj\Debug\Wpf.csproj.GenerateResource.Cache
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\obj\Debug\Wpf.exe
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\obj\Debug\Wpf.pdb
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\obj\Debug\control_window.g.cs
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\obj\Debug\control_window.baml
+C:\Users\SCG\Desktop\Wpf-170912\Wpf\obj\Debug\App.baml
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\bin\Debug\Wpf.exe.config
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\bin\Debug\Wpf.exe
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\bin\Debug\Wpf.pdb
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\bin\Debug\OpenCvSharp.dll
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\bin\Debug\OpenCvSharp.pdb
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\bin\Debug\OpenCvSharp.xml
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\obj\Debug\Wpf.csprojResolveAssemblyReference.cache
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\obj\Debug\history.g.cs
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\obj\Debug\Test.g.cs
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\obj\Debug\control_window.g.cs
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\obj\Debug\zoom_window.g.cs
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\obj\Debug\App.g.cs
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\obj\Debug\App.baml
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\obj\Debug\history.baml
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\obj\Debug\MainWindow.baml
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\obj\Debug\Test.baml
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\obj\Debug\control_window.baml
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\obj\Debug\zoom_window.baml
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\obj\Debug\Wpf.g.resources
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\obj\Debug\Wpf.csproj.GenerateResource.Cache
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\obj\Debug\Wpf.exe
+C:\Users\SCG\Desktop\Wpf-170914\Wpf\obj\Debug\Wpf.pdb
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\bin\Debug\Wpf.exe.config
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\bin\Debug\Wpf.exe
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\bin\Debug\Wpf.pdb
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\bin\Debug\OpenCvSharp.dll
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\bin\Debug\OpenCvSharp.pdb
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\bin\Debug\OpenCvSharp.xml
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\obj\Debug\Wpf.csprojResolveAssemblyReference.cache
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\obj\Debug\history.g.cs
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\obj\Debug\Test.g.cs
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\obj\Debug\control_window.g.cs
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\obj\Debug\zoom_window.g.cs
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\obj\Debug\App.g.cs
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\obj\Debug\App.baml
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\obj\Debug\history.baml
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\obj\Debug\MainWindow.baml
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\obj\Debug\Test.baml
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\obj\Debug\control_window.baml
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\obj\Debug\zoom_window.baml
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\obj\Debug\Wpf.g.resources
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\obj\Debug\Wpf.csproj.GenerateResource.Cache
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\obj\Debug\Wpf.exe
+C:\Users\SCG\Desktop\Wpf-170915\Wpf\obj\Debug\Wpf.pdb
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\obj\Debug\Wpf.csprojResolveAssemblyReference.cache
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\obj\Debug\history.g.cs
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\obj\Debug\Test.g.cs
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\obj\Debug\control_window.g.cs
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\obj\Debug\zoom_window.g.cs
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\obj\Debug\App.g.cs
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\obj\Debug\App.baml
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\obj\Debug\history.baml
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\obj\Debug\MainWindow.baml
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\obj\Debug\Test.baml
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\obj\Debug\control_window.baml
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\obj\Debug\zoom_window.baml
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\obj\Debug\Wpf.g.resources
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\obj\Debug\Wpf.pdb
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\bin\Debug\Wpf.exe.config
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\bin\Debug\Wpf.exe
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\bin\Debug\Wpf.pdb
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\bin\Debug\OpenCvSharp.dll
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\bin\Debug\OpenCvSharp.pdb
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\bin\Debug\OpenCvSharp.xml
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\obj\Debug\Wpf.csproj.GenerateResource.Cache
+C:\Users\SCG\Desktop\Wpf-170917\Wpf\obj\Debug\Wpf.exe
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\bin\Debug\Wpf.exe.config
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\bin\Debug\Wpf.exe
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\bin\Debug\Wpf.pdb
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\bin\Debug\OpenCvSharp.dll
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\bin\Debug\OpenCvSharp.pdb
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\bin\Debug\OpenCvSharp.xml
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\obj\Debug\Wpf.csprojResolveAssemblyReference.cache
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\obj\Debug\history.g.cs
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\obj\Debug\Test.g.cs
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\obj\Debug\control_window.g.cs
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\obj\Debug\zoom_window.g.cs
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\obj\Debug\App.g.cs
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\obj\Debug\App.baml
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\obj\Debug\history.baml
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\obj\Debug\MainWindow.baml
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\obj\Debug\Test.baml
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\obj\Debug\control_window.baml
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\obj\Debug\zoom_window.baml
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\obj\Debug\Wpf.g.resources
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\obj\Debug\Wpf.csproj.GenerateResource.Cache
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\obj\Debug\Wpf.exe
+C:\Users\SCG\Desktop\Wpf-170919\Wpf\obj\Debug\Wpf.pdb
+C:\Users\abc\Desktop\Wpf-170919\Wpf\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\abc\Desktop\Wpf-170919\Wpf\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+C:\Users\abc\Desktop\Wpf-170919\Wpf\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\abc\Desktop\Wpf-170919\Wpf\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+C:\Users\abc\Desktop\Wpf-170919\Wpf\bin\Debug\Wpf.exe.config
+C:\Users\abc\Desktop\Wpf-170919\Wpf\bin\Debug\Wpf.exe
+C:\Users\abc\Desktop\Wpf-170919\Wpf\bin\Debug\Wpf.pdb
+C:\Users\abc\Desktop\Wpf-170919\Wpf\bin\Debug\Newtonsoft.Json.dll
+C:\Users\abc\Desktop\Wpf-170919\Wpf\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\abc\Desktop\Wpf-170919\Wpf\bin\Debug\OpenCvSharp.dll
+C:\Users\abc\Desktop\Wpf-170919\Wpf\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\abc\Desktop\Wpf-170919\Wpf\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\abc\Desktop\Wpf-170919\Wpf\bin\Debug\Newtonsoft.Json.xml
+C:\Users\abc\Desktop\Wpf-170919\Wpf\bin\Debug\OpenCvSharp.pdb
+C:\Users\abc\Desktop\Wpf-170919\Wpf\bin\Debug\OpenCvSharp.xml
+C:\Users\abc\Desktop\Wpf-170919\Wpf\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\abc\Desktop\Wpf-170919\Wpf\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\abc\Desktop\Wpf-170919\Wpf\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\abc\Desktop\Wpf-170919\Wpf\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\abc\Desktop\Wpf-170919\Wpf\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\abc\Desktop\Wpf-170919\Wpf\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\abc\Desktop\Wpf-170919\Wpf\obj\Debug\Wpf.csprojResolveAssemblyReference.cache
+C:\Users\abc\Desktop\Wpf-170919\Wpf\obj\Debug\history.g.cs
+C:\Users\abc\Desktop\Wpf-170919\Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\abc\Desktop\Wpf-170919\Wpf\obj\Debug\Test.g.cs
+C:\Users\abc\Desktop\Wpf-170919\Wpf\obj\Debug\control_window.g.cs
+C:\Users\abc\Desktop\Wpf-170919\Wpf\obj\Debug\zoom_window.g.cs
+C:\Users\abc\Desktop\Wpf-170919\Wpf\obj\Debug\App.g.cs
+C:\Users\abc\Desktop\Wpf-170919\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+C:\Users\abc\Desktop\Wpf-170919\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+C:\Users\abc\Desktop\Wpf-170919\Wpf\obj\Debug\App.baml
+C:\Users\abc\Desktop\Wpf-170919\Wpf\obj\Debug\history.baml
+C:\Users\abc\Desktop\Wpf-170919\Wpf\obj\Debug\MainWindow.baml
+C:\Users\abc\Desktop\Wpf-170919\Wpf\obj\Debug\Test.baml
+C:\Users\abc\Desktop\Wpf-170919\Wpf\obj\Debug\control_window.baml
+C:\Users\abc\Desktop\Wpf-170919\Wpf\obj\Debug\zoom_window.baml
+C:\Users\abc\Desktop\Wpf-170919\Wpf\obj\Debug\Wpf.g.resources
+C:\Users\abc\Desktop\Wpf-170919\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+C:\Users\abc\Desktop\Wpf-170919\Wpf\obj\Debug\Wpf.csproj.GenerateResource.Cache
+C:\Users\abc\Desktop\Wpf-170919\Wpf\obj\Debug\Wpf.csproj.CoreCompileInputs.cache
+C:\Users\abc\Desktop\Wpf-170919\Wpf\obj\Debug\Wpf.exe
+C:\Users\abc\Desktop\Wpf-170919\Wpf\obj\Debug\Wpf.pdb
+D:\졸작\Wpf-170919\Wpf\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\졸작\Wpf-170919\Wpf\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+D:\졸작\Wpf-170919\Wpf\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\졸작\Wpf-170919\Wpf\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+D:\졸작\Wpf-170919\Wpf\bin\Debug\Wpf.exe.config
+D:\졸작\Wpf-170919\Wpf\bin\Debug\Wpf.exe
+D:\졸작\Wpf-170919\Wpf\bin\Debug\Wpf.pdb
+D:\졸작\Wpf-170919\Wpf\bin\Debug\Newtonsoft.Json.dll
+D:\졸작\Wpf-170919\Wpf\bin\Debug\OpenCvSharp.Blob.dll
+D:\졸작\Wpf-170919\Wpf\bin\Debug\OpenCvSharp.dll
+D:\졸작\Wpf-170919\Wpf\bin\Debug\OpenCvSharp.Extensions.dll
+D:\졸작\Wpf-170919\Wpf\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\졸작\Wpf-170919\Wpf\bin\Debug\Newtonsoft.Json.xml
+D:\졸작\Wpf-170919\Wpf\bin\Debug\OpenCvSharp.pdb
+D:\졸작\Wpf-170919\Wpf\bin\Debug\OpenCvSharp.xml
+D:\졸작\Wpf-170919\Wpf\bin\Debug\OpenCvSharp.Blob.pdb
+D:\졸작\Wpf-170919\Wpf\bin\Debug\OpenCvSharp.Blob.xml
+D:\졸작\Wpf-170919\Wpf\bin\Debug\OpenCvSharp.Extensions.pdb
+D:\졸작\Wpf-170919\Wpf\bin\Debug\OpenCvSharp.Extensions.xml
+D:\졸작\Wpf-170919\Wpf\bin\Debug\OpenCvSharp.UserInterface.pdb
+D:\졸작\Wpf-170919\Wpf\bin\Debug\OpenCvSharp.UserInterface.xml
+D:\졸작\Wpf-170919\Wpf\obj\Debug\Wpf.csprojResolveAssemblyReference.cache
+D:\졸작\Wpf-170919\Wpf\obj\Debug\history.g.cs
+D:\졸작\Wpf-170919\Wpf\obj\Debug\MainWindow.g.cs
+D:\졸작\Wpf-170919\Wpf\obj\Debug\Test.g.cs
+D:\졸작\Wpf-170919\Wpf\obj\Debug\control_window.g.cs
+D:\졸작\Wpf-170919\Wpf\obj\Debug\zoom_window.g.cs
+D:\졸작\Wpf-170919\Wpf\obj\Debug\App.g.cs
+D:\졸작\Wpf-170919\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+D:\졸작\Wpf-170919\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+D:\졸작\Wpf-170919\Wpf\obj\Debug\App.baml
+D:\졸작\Wpf-170919\Wpf\obj\Debug\history.baml
+D:\졸작\Wpf-170919\Wpf\obj\Debug\MainWindow.baml
+D:\졸작\Wpf-170919\Wpf\obj\Debug\Test.baml
+D:\졸작\Wpf-170919\Wpf\obj\Debug\control_window.baml
+D:\졸작\Wpf-170919\Wpf\obj\Debug\zoom_window.baml
+D:\졸작\Wpf-170919\Wpf\obj\Debug\Wpf.g.resources
+D:\졸작\Wpf-170919\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+D:\졸작\Wpf-170919\Wpf\obj\Debug\Wpf.csproj.GenerateResource.Cache
+D:\졸작\Wpf-170919\Wpf\obj\Debug\Wpf.exe
+D:\졸작\Wpf-170919\Wpf\obj\Debug\Wpf.pdb
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\bin\Debug\Wpf.exe.config
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\bin\Debug\Wpf.exe
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\bin\Debug\Wpf.pdb
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\bin\Debug\OpenCvSharp.dll
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\bin\Debug\OpenCvSharp.pdb
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\bin\Debug\OpenCvSharp.xml
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\obj\Debug\Wpf.csprojResolveAssemblyReference.cache
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\obj\Debug\history.g.cs
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\obj\Debug\Test.g.cs
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\obj\Debug\control_window.g.cs
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\obj\Debug\zoom_window.g.cs
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\obj\Debug\App.g.cs
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\obj\Debug\App.baml
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\obj\Debug\history.baml
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\obj\Debug\MainWindow.baml
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\obj\Debug\Test.baml
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\obj\Debug\control_window.baml
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\obj\Debug\zoom_window.baml
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\obj\Debug\Wpf.g.resources
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\obj\Debug\Wpf.csproj.GenerateResource.Cache
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\obj\Debug\Wpf.exe
+C:\Users\SCG\Desktop\Wpf-170920\Wpf\obj\Debug\Wpf.pdb
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\bin\Debug\Wpf.exe.config
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\bin\Debug\Wpf.exe
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\bin\Debug\Wpf.pdb
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\bin\Debug\OpenCvSharp.dll
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\bin\Debug\OpenCvSharp.pdb
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\bin\Debug\OpenCvSharp.xml
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\obj\Debug\Wpf.csprojResolveAssemblyReference.cache
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\obj\Debug\history.g.cs
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\obj\Debug\Test.g.cs
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\obj\Debug\control_window.g.cs
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\obj\Debug\zoom_window.g.cs
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\obj\Debug\App.g.cs
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\obj\Debug\App.baml
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\obj\Debug\history.baml
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\obj\Debug\MainWindow.baml
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\obj\Debug\Test.baml
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\obj\Debug\control_window.baml
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\obj\Debug\zoom_window.baml
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\obj\Debug\Wpf.g.resources
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\obj\Debug\Wpf.csproj.GenerateResource.Cache
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\obj\Debug\Wpf.exe
+C:\Users\SCG\Desktop\Wpf-170924\Wpf\obj\Debug\Wpf.pdb
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\obj\Debug\Wpf.csprojResolveAssemblyReference.cache
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\obj\Debug\history.g.cs
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\obj\Debug\Test.g.cs
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\obj\Debug\control_window.g.cs
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\obj\Debug\zoom_window.g.cs
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\obj\Debug\App.g.cs
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\obj\Debug\Wpf.exe
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\obj\Debug\Wpf.pdb
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\bin\Debug\Wpf.exe.config
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\bin\Debug\Wpf.exe
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\bin\Debug\Wpf.pdb
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\bin\Debug\OpenCvSharp.dll
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\bin\Debug\OpenCvSharp.pdb
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\bin\Debug\OpenCvSharp.xml
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\obj\Debug\App.baml
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\obj\Debug\history.baml
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\obj\Debug\MainWindow.baml
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\obj\Debug\Test.baml
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\obj\Debug\control_window.baml
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\obj\Debug\zoom_window.baml
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\obj\Debug\Wpf.g.resources
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+C:\Users\yoonc\Desktop\Wpf-170924\Wpf\obj\Debug\Wpf.csproj.GenerateResource.Cache
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\bin\Debug\Wpf.exe.config
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\bin\Debug\Wpf.exe
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\bin\Debug\Wpf.pdb
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\bin\Debug\OpenCvSharp.dll
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\bin\Debug\OpenCvSharp.pdb
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\bin\Debug\OpenCvSharp.xml
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\obj\Debug\Wpf.csprojResolveAssemblyReference.cache
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\obj\Debug\history.g.cs
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\obj\Debug\Test.g.cs
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\obj\Debug\control_window.g.cs
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\obj\Debug\zoom_window.g.cs
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\obj\Debug\App.g.cs
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\obj\Debug\App.baml
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\obj\Debug\history.baml
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\obj\Debug\MainWindow.baml
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\obj\Debug\Test.baml
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\obj\Debug\control_window.baml
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\obj\Debug\zoom_window.baml
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\obj\Debug\Wpf.g.resources
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\obj\Debug\Wpf.csproj.GenerateResource.Cache
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\obj\Debug\Wpf.exe
+C:\Users\yoonc\Desktop\졸작\Wpf-170924_final\Wpf\obj\Debug\Wpf.pdb
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\bin\Debug\Wpf.exe.config
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\bin\Debug\Wpf.exe
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\bin\Debug\Wpf.pdb
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\bin\Debug\OpenCvSharp.dll
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\bin\Debug\OpenCvSharp.pdb
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\bin\Debug\OpenCvSharp.xml
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\obj\Debug\Wpf.csprojResolveAssemblyReference.cache
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\obj\Debug\history.g.cs
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\obj\Debug\Test.g.cs
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\obj\Debug\control_window.g.cs
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\obj\Debug\zoom_window.g.cs
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\obj\Debug\App.g.cs
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\obj\Debug\App.baml
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\obj\Debug\history.baml
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\obj\Debug\MainWindow.baml
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\obj\Debug\Test.baml
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\obj\Debug\control_window.baml
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\obj\Debug\zoom_window.baml
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\obj\Debug\Wpf.g.resources
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\obj\Debug\Wpf.csproj.GenerateResource.Cache
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\obj\Debug\Wpf.exe
+C:\Users\SCG\Desktop\Wpf-170925_final - yooncheol\Wpf\obj\Debug\Wpf.pdb
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\obj\Debug\Wpf.csprojResolveAssemblyReference.cache
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\obj\Debug\history.g.cs
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\obj\Debug\Test.g.cs
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\obj\Debug\control_window.g.cs
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\obj\Debug\zoom_window.g.cs
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\obj\Debug\App.g.cs
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\obj\Debug\Wpf.exe
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\obj\Debug\Wpf.pdb
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\bin\Debug\Wpf.exe.config
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\bin\Debug\Wpf.exe
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\bin\Debug\Wpf.pdb
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\bin\Debug\OpenCvSharp.dll
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\bin\Debug\OpenCvSharp.pdb
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\bin\Debug\OpenCvSharp.xml
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\obj\Debug\App.baml
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\obj\Debug\history.baml
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\obj\Debug\MainWindow.baml
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\obj\Debug\Test.baml
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\obj\Debug\control_window.baml
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\obj\Debug\zoom_window.baml
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\obj\Debug\Wpf.g.resources
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+C:\Users\yoonc\Desktop\Wpf-170925_REAL_FINAL\Wpf\obj\Debug\Wpf.csproj.GenerateResource.Cache
