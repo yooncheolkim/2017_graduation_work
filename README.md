@@ -6,3 +6,5 @@
 - C#, WPF를 이용한 사용자 응용프로그램 개발
 
 [![video](https://img.youtu.be/VRHszY3XzAQ?t=72)](https://youtu.be/VRHszY3XzAQ)
+
+<https://youtu.be/VRHszY3XzAQ>
