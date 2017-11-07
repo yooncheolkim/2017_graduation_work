@@ -4,3 +4,5 @@
 - 라즈베리파이와 서버 PC간의 영상 통신
 - OpenCV를 이용, 영상처리
 - C#, WPF를 이용한 사용자 응용프로그램 개발
+
+[![video](https://youtu.be/VRHszY3XzAQ?t=72)](https://youtu.be/VRHszY3XzAQ)
