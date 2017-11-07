@@ -5,4 +5,4 @@
 - OpenCV를 이용, 영상처리
 - C#, WPF를 이용한 사용자 응용프로그램 개발
 
-[![video](https://youtu.be/VRHszY3XzAQ?t=72)](https://youtu.be/VRHszY3XzAQ)
+[![video](https://img.youtu.be/VRHszY3XzAQ?t=72)](https://youtu.be/VRHszY3XzAQ)
