@@ -7,4 +7,4 @@
 
 [![동영상](https://img.youtu.be/VRHszY3XzAQ?t=72)](https://youtu.be/VRHszY3XzAQ)
 
-<iframe width = "600" height = "315" src = "https://youtu.be/VRHszY3XzAQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//youtu.be/VRHszY3XzAQ" frameborder="0" allowfullscreen></iframe>
