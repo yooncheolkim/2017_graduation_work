@@ -5,6 +5,8 @@
 - OpenCV를 이용, 영상처리
 - C#, WPF를 이용한 사용자 응용프로그램 개발
 
-[![동영상](https://img.youtu.be/VRHszY3XzAQ?t=72)](https://youtu.be/VRHszY3XzAQ)
+[![동영상](https://img.www.youtube.com/watch?v=VRHszY3XzAQ&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=VRHszY3XzAQ&feature=youtu.be)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 <iframe width="560" height="315" src="//youtu.be/VRHszY3XzAQ" frameborder="0" allowfullscreen></iframe>
